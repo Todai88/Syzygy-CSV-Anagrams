@@ -1,0 +1,8 @@
+C:\Users\joaki\Desktop\New stuffz\Syzygy\Syzygy\Syzygy.App\bin\Debug\Syzygy.App.exe.config
+C:\Users\joaki\Desktop\New stuffz\Syzygy\Syzygy\Syzygy.App\bin\Debug\Syzygy.App.exe
+C:\Users\joaki\Desktop\New stuffz\Syzygy\Syzygy\Syzygy.App\bin\Debug\Syzygy.App.pdb
+C:\Users\joaki\Desktop\New stuffz\Syzygy\Syzygy\Syzygy.App\bin\Debug\Syzygy.BL.dll
+C:\Users\joaki\Desktop\New stuffz\Syzygy\Syzygy\Syzygy.App\bin\Debug\Syzygy.BL.pdb
+C:\Users\joaki\Desktop\New stuffz\Syzygy\Syzygy\Syzygy.App\obj\Debug\Syzygy.App.csprojResolveAssemblyReference.cache
+C:\Users\joaki\Desktop\New stuffz\Syzygy\Syzygy\Syzygy.App\obj\Debug\Syzygy.App.exe
+C:\Users\joaki\Desktop\New stuffz\Syzygy\Syzygy\Syzygy.App\obj\Debug\Syzygy.App.pdb

@@ -1,0 +1,4 @@
+C:\Users\joaki\Desktop\New stuffz\Syzygy\Syzygy\Syzygy.BL\bin\Debug\Syzygy.BL.dll
+C:\Users\joaki\Desktop\New stuffz\Syzygy\Syzygy\Syzygy.BL\bin\Debug\Syzygy.BL.pdb
+C:\Users\joaki\Desktop\New stuffz\Syzygy\Syzygy\Syzygy.BL\obj\Debug\Syzygy.BL.dll
+C:\Users\joaki\Desktop\New stuffz\Syzygy\Syzygy\Syzygy.BL\obj\Debug\Syzygy.BL.pdb

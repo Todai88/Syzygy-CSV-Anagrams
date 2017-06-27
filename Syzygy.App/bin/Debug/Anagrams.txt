@@ -1,0 +1,11 @@
+Anagram Count:10
+2:no
+2:on
+4:once
+4:once
+4:wake
+4:weak
+5:leave
+5:leave
+6:asleep
+6:please
